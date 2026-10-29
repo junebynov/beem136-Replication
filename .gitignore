@@ -1,0 +1,23 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+
+# Stata temporary files
+*.tmp
+*.temp
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# VS Code local settings
+.vscode/
+
+# Temporary office files
+~$*
+
+# R session history
+.Rhistory
+
+# Stata log backups
+*.smcl
