@@ -21,3 +21,9 @@ __pycache__/
 
 # Stata log backups
 *.smcl
+
+# Stata generated graph files
+*.gph
+
+# Stata log files
+*.log
